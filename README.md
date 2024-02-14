@@ -1,3 +1,4 @@
+[Play the Game](https://coindustry.github.io/tictactoe-app/)
 # Tic Tac Toe Game
 
 This project is a simple implementation of the classic Tic Tac Toe game built using React.
